@@ -1,0 +1,23 @@
+{
+  "name": "couponz",
+  "version": "1.0.0",
+  "description": "Landingz – One Page Multi Purpose Html Theme",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coupon"
+  ],
+  "author": "codeboxr Team",
+  "license": "",
+  "homepage": "#",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0",
+    "gulp-minify": "0.0.15",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-watch": "^4.3.11"
+  }
+}
